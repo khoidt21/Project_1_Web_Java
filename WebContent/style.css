@@ -1,0 +1,16 @@
+@charset "UTF-8";
+.navbar{
+	margin-bottom: 0px !important;
+	border-radius: 0px !important;
+}
+.input-group{
+	width: 40% !important;
+}
+h6.title{
+	color: red;
+	font-weight: bold;
+}
+h5.information{
+	color: red;
+	font-weight: bold;
+}
